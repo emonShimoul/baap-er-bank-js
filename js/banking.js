@@ -42,4 +42,4 @@ document.getElementById('withdraw-btn').addEventListener('click', function(){
     balanceTotal.innerText = newBalanceTotal;
     // clear the deposit input field
     withdrawInput.value = '';
-})
+});
